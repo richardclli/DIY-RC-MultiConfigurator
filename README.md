@@ -7,4 +7,9 @@ Intended to build a small and simple device that can be used to configure variou
 * ESCs
 * .....
 
+with the help of Phone Apps.
+
+Development board of choice:
+* ESP32 based development board is a nice choice with wifi and bluetooth capabilities.
+* LilyGo T-Display
 
